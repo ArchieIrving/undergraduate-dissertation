@@ -64,17 +64,6 @@ To determine whether ADHD-related TikTok videos provide **accurate**, **clinical
 
 ---
 
-## 📘 Contents
-```
-├── dissertation.pdf        # Full dissertation document  
-├── README.md               # Summary and project information  
-├── data/                   # (Optional) Coding sheets, raw data, appendices  
-├── figures/                # (Optional) Graphs or visuals from the dissertation  
-└── materials/              # (Optional) Tools or reference materials
-```
-
----
-
 ## 📚 Abstract
 
 Public interest in ADHD has grown significantly through platforms like TikTok, but visibility does not guarantee accuracy. This study analysed 83 TikTok videos to evaluate their clinical validity using DSM-5-TR criteria and a custom DSM Accuracy Scale (DAS). While 84% referenced DSM symptoms, only 7.14% provided diagnostically accurate portrayals. Inattention symptoms accounted for 67.6% of all symptom mentions, and both video duration and inattention frequency significantly predicted DAS scores. Findings suggest that although TikTok increases awareness, it often presents partial or inaccurate representations of ADHD, raising concerns about misinformation and its influence on public understanding and self-diagnosis.
